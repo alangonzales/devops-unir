@@ -1,3 +1,5 @@
+org: alandevops19992
+app: api-restful-todo-alan
 service: serverless-rest-api-with-dynamodb
 
 frameworkVersion: ">=1.1.0"
